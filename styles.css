@@ -5,6 +5,11 @@ body {
 	background-color: #696C78;
 	font-size: 100%;
 }
+imgmap {
+    display: block;
+    position: relative;
+    left: -50%;
+}
 .wrapper {
     position: absolute;
     left: 50%;
