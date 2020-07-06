@@ -7,9 +7,7 @@ body {
 }
 #flex-center {
   	display: flex;
-  	justify-content: center;
   	align-items: center;
- 	height: 200px;
   	flex-wrap: nowrap;
   	background-color: #D4DAF3;
 	padding-top: 10px;
