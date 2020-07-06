@@ -5,7 +5,7 @@ body {
 	background-color: #696C78;
 	font-size: 100%;
 }
-.floatRightClear{
+.floatRight {
 	float:right;
 	clear:right;
 	margin-left:20px
