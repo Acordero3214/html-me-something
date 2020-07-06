@@ -5,6 +5,17 @@ body {
 	background-color: #696C78;
 	font-size: 100%;
 }
+#flex-center {
+  	display: flex;
+  	justify-content: center;
+  	align-items: center;
+ 	height: 200px;
+  	flex-wrap: nowrap;
+  	background-color: #D4DAF3;
+	padding-top: 10px;
+	padding-bottom: 10px;
+	justify-content: center;
+}
 .flex-container {
   	display: flex;
   	flex-wrap: nowrap;
