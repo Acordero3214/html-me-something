@@ -6,7 +6,11 @@ body {
 	font-size: 100%;
 }
 #centered-figure {
-	float:center;
+  	display: block;
+ 	margin-left: auto;
+ 	margin-right: auto;
+  	width: 50%;
+}
 }
 .flex-container {
   	display: flex;
