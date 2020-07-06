@@ -4,6 +4,7 @@ body {
 	margin: 0 auto;
 	background-color: #696C78;
 	font-size: 100%;
+	font: Arial;
 }
 #flex-center {
   	display: flex;
@@ -13,6 +14,7 @@ body {
 	padding-top: 10px;
 	padding-bottom: 10px;
 	justify-content: center;
+	text-align: center;
 }
 .flex-container {
   	display: flex;
@@ -30,7 +32,11 @@ body {
   	text-align: center;
   	line-height: 1.6;
   	font-size: large;
+h1 {
+	text-align: center;
+	text-decoration: underline solid white;
+	color: white;
+	font-size: 150%;
 }
-#imgmap {
 	
-}
+	
