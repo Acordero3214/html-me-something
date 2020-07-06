@@ -6,16 +6,18 @@ body {
 	font-size: 100%;
 }
 .flex-container {
-  display: flex;
-  flex-wrap: nowrap;
-  background-color: #D4DAF3;
+  	display: flex;
+  	flex-wrap: nowrap;
+  	background-color: #D4DAF3;
+	padding-top: 10px;
+	padding-bottom: 10px;
 }
 
 .flex-container .box {
-  background-color: #D4DAF3;
-  width: 50%;
-  margin: 10px;
-  text-align: center;
-  line-height: 1.6;
-  font-size: large;
+  	background-color: #D4DAF3;
+  	width: 50%;
+  	margin: 10px;
+  	text-align: center;
+  	line-height: 1.6;
+  	font-size: large;
 }
