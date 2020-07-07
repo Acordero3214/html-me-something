@@ -4,7 +4,7 @@ body {
 	margin: 0 auto;
 	background-color: #696C78;
 	font-size: 100%;
-	font-family: Oldtown, fantasy;
+	font-family: Brushstroke, fantasy;
 }
 
 #flex-center {
@@ -54,7 +54,7 @@ h3 {
 	font-size: 250%;
 }
 h4 {
-	text-decoration: underline overline wavy black;
+	text-decoration: underline solid black;
 	font-size: 200%;
 }
 footer {
