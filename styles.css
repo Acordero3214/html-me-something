@@ -34,6 +34,10 @@ body {
   	line-height: 1.6;
   	font-size: large;
 }
+figcaption {
+	font-style: italic;
+	font-family: Arial;
+}
 h1 {
 	text-align: center;
 	text-decoration: underline solid white;
@@ -53,5 +57,7 @@ h4 {
 	text-decoration: underline overline wavy black;
 	font-size: 200%;
 }
-
-
+footer {
+	text-align: center;
+	color: white;
+}
